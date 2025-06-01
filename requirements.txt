@@ -3,3 +3,4 @@ pandas
 numpy
 matplotlib
 lxml
+bs4
