@@ -5,3 +5,4 @@ matplotlib
 lxml
 bs4
 randomuser
+scraper
